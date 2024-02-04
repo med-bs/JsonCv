@@ -1,107 +1,119 @@
 {
-    "name":"Şahin Hürcan",
-    "title":"Senior Software Engineer",
-    "about":"I'am currently working on Insurance Solutions using .NET 6,Microservices,CQRS,Redis,RabbitMQ,CleanArchitechture,MongoDB,Dapper",
-    "remote":true,
-    "personal":{
-        "birth":"1998/10/24",
-        "place_of_brith":"Gaziantep TR",
-        "military_service":true,
-        "single":true,
-        "driving_licence":"A,B"
+    "name": "Mohamed Amine Ben Salem",
+    "title": "Software Engineer",
+    "about": "Actively seeking opportunities to contribute to innovative solutions in a dynamic work environment.I am confident in my ability to bring innovative solutions to various challenges and I look forward to thriving in a collaborative environment",
+    "personal": {
+        "driving_licence": "B"
     },
-    "contact":{
-        "address":"Kayseri TR",
-        "email":"sahin@sahinhurcan.com.tr",
-        "github":"https://github.com/sahinhurcan",
-        "linkedin":"https://linkedin.com/in/sahinhurcan",
-        "web_site":"https://sahinhurcan.com.tr"
+    "contact": {
+        "address": "Monsatir, Tunisia",
+        "email": "mohamedaminebnsalem@gmail.com",
+        "phone": "+21699069350",
+        "github": "https://github.com/med-bs",
+        "linkedin": "https://www.linkedin.com/in/medbensalem",
+        "web_site": "https://bensalem.great-site.net"
     },
-    "experience":[
+    "experience": [
         {
-            "company":"Doğan Holding | Hepiyi Sigorta",
-            "department":"Senior Software Engineer",
-            "technologies":".NET 6,CQRS,Redis,Microservices,RabbitMQ,CleanArchitechture,MongoDB,Dapper,EventBus,Quartz,Hangfire",
-            "date":"10.2022 - Current"
+            "company": "Proxym Group",
+            "title": "Software Engineer",
+            "technologies": "Java, SpringBoot, JSF, Jasper",
+            "date": "09/2023 - Current"
         },
         {
-            "company":"MAZAKA YAZILIM",
-            "department":"Back-End Team Lead",
-            "technologies":".NET 6,.NET Core, AngularJS,ReacJs,EF Core,Sql Server",
-            "date":"09.2021 - 10.2022"
+            "company": "Proxym Group",
+            "department": "End-Of-Study Project",
+            "technologies": "Java, SpringBoot, Python, Spark, Kafka, Debezium, Elasticsearch, Kibana, Docker",
+            "date": "02/2023 - 06/2023"
         },
         {
-            "company":"MAZAKA YAZILIM",
-            "department":"Back-End Developer",
-            "technologies":".NET 5,.NET Core, AngularJS,ReacJs,EF Core,Sql Server",
-            "date":"09.2020 - 09.2021"
-        },
-        {
-            "company":"SA YAZILIM",
-            "department":"Software Developer",
-            "technologies":".NET Framework, JavaScript, JQuery, Windows Forms, T-SQL",
-            "date":"06.2020 - 09.2020"
-        },
-        {
-            "company":"MAYDANOSS MEDYA",
-            "department":"Web Developer",
-            "technologies":"PHP, HTML, CSS, MySQL",
-            "date":"2019 - 06.2020"
+            "company": "Dev Pro Solution",
+            "title": "Summer Internship",
+            "technologies": "Flutter, Dart",
+            "date": "07/2022 - 08/2022"
         }
     ],
-    "education":[
+    "education": [
         {
-            "school":"Firat University - Faculty of Technology",
-            "department":"Software Engineering",
-            "date":"2016 - 2022"
+            "university": "University of Sousse, Tunisia",
+            "institute": "Higher Institute of Applied Sciences and Technology",
+            "degree": "National Diploma of Software Engineer",
+            "date": "2020 - 2023"
+        },
+        {
+            "university": "University of Sousse, Tunisia",
+            "institute": "Higher Institute of Applied Sciences and Technology",
+            "degree": "Preparatory Engineering Studies",
+            "date": "2018 - 2020"
         }
     ],
-    "skills":{
-        
-        "programming":[
-            ".NET 6",
-            ".NET Core",
-            ".NET Framework",
-            "PHP"
+    "certifications": [
+        {
+            "name": "Machine Learning Specialization",
+            "organization": "Stanford University & DeepLearning.AI"
+        },
+        {
+            "name": "TensorFlow Developer Professional Certiﬁcate",
+            "organization": "DeepLearning.AI"
+        },
+        {
+            "name": "Data Analytics Professional Certificate",
+            "organization": "Google"
+        }
+    ],
+    "skills": {
+        "programming": [
+            "Java",
+            "PHP",
+            "JavaScript",
+            "Dart",
+            "C",
+            "C++",
+            "C#",
+            "SQL"
         ],
-        "javascript":[
-            "AngularJS",
-            "ReactJS",
-            "jQuery Library",
-            "Rest Api"
+        "Web/Mobile Development": [
+            "SpringBoot",
+            "Node.js",
+            "Symfony",
+            ".Net",
+            "Flutter",
+            "React"
         ],
-        "database":[
+        "database": [
+            "PostgreSQL",
+            "MySQL",
+            "Oracle",
             "MongoDB",
-            "MSSQL",
-            "T-SQL",
-            "MySQL"
+            "Redis"
         ],
-        "orm":[
-            "Entity Framework Core",
-            "Dapper"
+        "Machine/Deep Learning": [
+            "Regression",
+            "Classification",
+            "TensorFlow",
+            "Keras"
         ],
-        "testing":[
-            "xUnit",
-            "NUnit",
-            "Moq",
-            "FluentAssertions"
+        "Data Analysis": [
+            "Spark",
+            "Kafka",
+            "Elasticsearch",
+            "Kibana"
         ],
-        "html":[
-            "HTML-5",
-            "XHTML"
-        ],
-        "version_control":[
-            "git/Github",
-            "git/Bitbucket",
-            "Svn"
-        ],
-        "tools":[
+        "tools": [
             "Postman",
-            "SoapUI",
-            "Jira",
-            "SourceTree",
-            "Slack",
-            "Trello"
+            "Docker",
+            "Git"
         ]
-    }
+    },
+    "languages": [
+        {
+            "arabic": "Native"
+        },
+        {
+            "english": "Professional"
+        },
+        {
+            "french": "Fluent"
+        }
+    ]
 }
