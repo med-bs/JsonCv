@@ -49,7 +49,11 @@ function convertJsonToHtml($obj, $indent) {
                 if (strpos($value, "@") !== false) {
                     $html .= '<div class="value">"<a href="mailto:'.$value.'" target="_blank">'.$value.'</a>"</div>'."\n";
                 } else {
-                    $html .= '<div class="value">"'.$value.'"</div>'."\n";
+                    if (strpos($value, "+") === 0) {
+                        $html .= '<div class="value">"<a href="https://wa.me/'.$value.'" target="_blank">'.$value.'</a>"</div>'."\n";
+                    } else {
+                        $html .= '<div class="value">"'.$value.'"</div>'."\n";
+                    }
                 }
             }
             $html .= '</div>'."\n";
